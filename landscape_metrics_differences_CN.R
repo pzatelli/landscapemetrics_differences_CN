@@ -1,4 +1,4 @@
-# R script to test landscape metrics differences using different Cell Neighbourhood (CN)
+# R script to test landscape metrics differences using different Cell Neighbourhood (CN) configurations.
 # Copyright (C) 2025 Paolo Zatelli and Stefano Gobbi
 # University of Trento, Italys
 # paolo.zatelli@unitn.it
