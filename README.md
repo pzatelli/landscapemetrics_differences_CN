@@ -4,7 +4,7 @@ R script to test landscape metrics differences using different Cell Neighbourhoo
 
 Copyright (C) 2025 Paolo Zatelli and Stefano Gobbi
 
-University of Trento
+University of Trento, Italy
 
 paolo.zatelli@unitn.it
 
